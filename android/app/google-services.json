@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "1049240265924",
+    "firebase_url": "https://sidney-says.firebaseio.com",
+    "project_id": "sidney-says",
+    "storage_bucket": "sidney-says.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049240265924:android:7695bba7792f7ae0d45591",
+        "android_client_info": {
+          "package_name": "com.example.sidneysays"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049240265924-7jreh7i5otk8ai2aa2vvbmdfunun2sqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9xWFfulnOIY7aq-tbPBfakg92RMdNAOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049240265924-7jreh7i5otk8ai2aa2vvbmdfunun2sqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4603248189943338~9261243004"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049240265924:android:ab89cfa374fbc813d45591",
+        "android_client_info": {
+          "package_name": "com.swinc.sidneysays"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049240265924-7jreh7i5otk8ai2aa2vvbmdfunun2sqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9xWFfulnOIY7aq-tbPBfakg92RMdNAOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049240265924-7jreh7i5otk8ai2aa2vvbmdfunun2sqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
